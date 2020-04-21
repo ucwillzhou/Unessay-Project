@@ -1,0 +1,54 @@
+.xAxis{
+    font: 22px sans-serif;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.legend{
+    font: 22px sans-serif;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.tooltipText{
+
+    font-weight: bold;
+}
+
+.resetButton{
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font: 24px sans-serif;
+}
+
+.title{
+    font: 30px sans-serif;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+.titleTwo{
+    font: 23px sans-serif;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;;
+
+}
+
+.cc{
+    margin-top: 50px;
+}
